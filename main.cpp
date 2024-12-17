@@ -3,7 +3,7 @@ using namespace std;
 int main() {
   #include <iostream>
 using namespace std;
-
+// struct pesawat 
 struct pesawat
 {
     string nama_pesawat;
@@ -12,6 +12,7 @@ struct pesawat
     string tanggal_pesawat;
     string kursi_pesawat;
 };
+  // kode booking 
 int main(){
     int menu;
   int a, b;
